@@ -32,12 +32,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sapto12&theme=tokyonight&hide_border=false)<br/>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Sapto12&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Sapto12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
