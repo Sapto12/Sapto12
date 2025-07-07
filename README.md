@@ -27,7 +27,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
-... (lanjutkan bagian bawah tanpa perubahan)# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Sapto12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sapto12&theme=tokyonight&hide_border=false)<br/>
 
