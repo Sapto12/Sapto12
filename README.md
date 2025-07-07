@@ -35,9 +35,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sapto12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sapto12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sapto12&theme=tokyonight&hide_border=false)<br/>
 
 
 ---
